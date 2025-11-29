@@ -1,0 +1,1 @@
+Correção de emergência em cima do commit 67fe
